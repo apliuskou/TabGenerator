@@ -1,0 +1,6 @@
+C:\GitHub\TabGenerator\TabGenerator\bin\Debug\TabGenerator.exe.config
+C:\GitHub\TabGenerator\TabGenerator\bin\Debug\TabGenerator.exe
+C:\GitHub\TabGenerator\TabGenerator\bin\Debug\TabGenerator.pdb
+C:\GitHub\TabGenerator\TabGenerator\obj\Debug\TabGenerator.csprojResolveAssemblyReference.cache
+C:\GitHub\TabGenerator\TabGenerator\obj\Debug\TabGenerator.exe
+C:\GitHub\TabGenerator\TabGenerator\obj\Debug\TabGenerator.pdb
