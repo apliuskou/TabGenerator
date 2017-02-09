@@ -16,13 +16,16 @@ namespace TabGenerator
         //? А почему у тебя генерация случайной даты шла до void Main? Так можно? Или так надо в каком-то конкретном случае?
         //Я где-то прочёл, что программа начнёт исполняться с этого места, с void Main
 
+            // DP: Да, можно. Это получается встроенный метод класса Program, который ты имеешь полное право
+            // вызывать внутри любого метода или свойства этого класса.
+
         static void Main(string[] args)
 
         {
         //Генерируем случайную дату в отдельном классе, просто целые числа, пока не в формате времени
            string dateOfTransaction = GenerateRandomDate.SalesDate();
 
-            string homeFolder = @"c:\GitHub\tabgen\";
+            string homeFolder = @"c:\GitHub\TabGenerator\";
             Random moneyRandom = new Random();
             Random randomPartner = new Random();
             string nextRecord = "";
